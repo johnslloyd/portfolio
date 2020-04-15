@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter, Route, Switch } from "react-router-dom";
 import Work from './components/work.js';
 import Ideas from './components/ideas.js';
 import Ventures from './components/ventures.js';
@@ -11,7 +11,7 @@ import './styles/App.css';
 
 function App() {
   return (
-    <Router>
+    <HashRouter basename="/">
     <Nav />
     <section id="main-content">
       <Switch>
@@ -22,7 +22,7 @@ function App() {
         <Route path="/resume" component={Resume} />
       </Switch>
     </section>
-    </Router>
+    </HashRouter>
 
   );
 }
