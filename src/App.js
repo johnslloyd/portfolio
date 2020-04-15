@@ -11,7 +11,7 @@ import './styles/App.css';
 
 function App() {
   return (
-    <HashRouter basename="/">
+    <HashRouter>
     <Nav />
     <section id="main-content">
       <Switch>
