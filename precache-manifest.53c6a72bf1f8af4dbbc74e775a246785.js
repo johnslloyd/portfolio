@@ -1,31 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89a5c821f7e451116779ef64a56690a9",
+    "revision": "9091fdaa30be1cf36631fcbe6bef283f",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "440d4897c5dbd111abd8",
-    "url": "/portfolio/static/css/main.70ab9277.chunk.css"
+    "revision": "5cef22d8abfc71aac187",
+    "url": "/portfolio/static/css/main.92123715.chunk.css"
   },
   {
-    "revision": "6fb8feffb4d64c6461b4",
-    "url": "/portfolio/static/js/2.2671055f.chunk.js"
+    "revision": "009fea29676b3d82c521",
+    "url": "/portfolio/static/js/2.8b5e9729.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.2671055f.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.8b5e9729.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "440d4897c5dbd111abd8",
-    "url": "/portfolio/static/js/main.f0aa6d81.chunk.js"
+    "revision": "5cef22d8abfc71aac187",
+    "url": "/portfolio/static/js/main.81e5e618.chunk.js"
   },
   {
     "revision": "6c1d3ad26a766dc494c1",
     "url": "/portfolio/static/js/runtime-main.d597d31e.js"
   },
   {
+    "revision": "dbd85e858a59a5608dc07f8456aea4a7",
+    "url": "/portfolio/static/media/Dreamhome-mobileweb-property.dbd85e85.png"
+  },
+  {
+    "revision": "a9c79262950f243d917e97801373f5fb",
+    "url": "/portfolio/static/media/Dreamhome-wires.a9c79262.png"
+  },
+  {
     "revision": "27c16cda93e1f95d476d26d3899aa184",
     "url": "/portfolio/static/media/beverlyhilton-web-600.27c16cda.png"
+  },
+  {
+    "revision": "e1f5f1a8a82151353fc27328f60e1a2e",
+    "url": "/portfolio/static/media/dreamhome-agile.e1f5f1a8.png"
+  },
+  {
+    "revision": "5a18446b62d03f1e7f7fcb725cada239",
+    "url": "/portfolio/static/media/dreamhome-workshop.5a18446b.png"
+  },
+  {
+    "revision": "66c5f27bfbc5c7fa80b25d25754a2718",
+    "url": "/portfolio/static/media/dreamhome.66c5f27b.png"
   },
   {
     "revision": "0f10a46db648ef0d5c5aca5825f05bb7",
