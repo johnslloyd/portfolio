@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5f756ab5.chunk.css",
-    "main.js": "/portfolio/static/js/main.79fb435f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.79fb435f.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.5b01dc9e.chunk.css",
+    "main.js": "/portfolio/static/js/main.ad546c0f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ad546c0f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.d597d31e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.d597d31e.js.map",
     "static/js/2.8b5e9729.chunk.js": "/portfolio/static/js/2.8b5e9729.chunk.js",
     "static/js/2.8b5e9729.chunk.js.map": "/portfolio/static/js/2.8b5e9729.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.d085e477537121539b12b3b7239add03.js": "/portfolio/precache-manifest.d085e477537121539b12b3b7239add03.js",
+    "precache-manifest.ea77af967fd527c47999c1f4c6c46b2c.js": "/portfolio/precache-manifest.ea77af967fd527c47999c1f4c6c46b2c.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.5f756ab5.chunk.css.map": "/portfolio/static/css/main.5f756ab5.chunk.css.map",
+    "static/css/main.5b01dc9e.chunk.css.map": "/portfolio/static/css/main.5b01dc9e.chunk.css.map",
     "static/js/2.8b5e9729.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8b5e9729.chunk.js.LICENSE.txt",
     "static/media/Dreamhome-mobileweb-property.png": "/portfolio/static/media/Dreamhome-mobileweb-property.dbd85e85.png",
     "static/media/Dreamhome-wires.png": "/portfolio/static/media/Dreamhome-wires.a9c79262.png",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.d597d31e.js",
     "static/js/2.8b5e9729.chunk.js",
-    "static/css/main.5f756ab5.chunk.css",
-    "static/js/main.79fb435f.chunk.js"
+    "static/css/main.5b01dc9e.chunk.css",
+    "static/js/main.ad546c0f.chunk.js"
   ]
 }
