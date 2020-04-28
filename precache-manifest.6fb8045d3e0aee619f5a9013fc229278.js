@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "612802ceb1d62516961efdf74a832922",
+    "revision": "4f7539f57c844fa8a5672de7060dd7b9",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "5eb1f2799390f395cde9",
-    "url": "/portfolio/static/css/main.dbe3d851.chunk.css"
+    "revision": "ebdf50386e1f9aa86931",
+    "url": "/portfolio/static/css/main.512c2951.chunk.css"
   },
   {
-    "revision": "e20158d0a48f0246cf32",
-    "url": "/portfolio/static/js/2.4ddd5a08.chunk.js"
+    "revision": "0a678b9fd80cae299643",
+    "url": "/portfolio/static/js/2.b34b8ea3.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.4ddd5a08.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.b34b8ea3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5eb1f2799390f395cde9",
-    "url": "/portfolio/static/js/main.440ac993.chunk.js"
+    "revision": "ebdf50386e1f9aa86931",
+    "url": "/portfolio/static/js/main.7558bf69.chunk.js"
   },
   {
     "revision": "6c1d3ad26a766dc494c1",
@@ -40,10 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/dreamhome-agile.e1f5f1a8.png"
   },
   {
-    "revision": "a6e4417f4ac6d71d6bc9be60e44933fa",
-    "url": "/portfolio/static/media/dreamhome-flow-wb.a6e4417f.png"
-  },
-  {
     "revision": "5a18446b62d03f1e7f7fcb725cada239",
     "url": "/portfolio/static/media/dreamhome-workshop.5a18446b.png"
   },
@@ -56,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/fractal-web-600.0f10a46d.png"
   },
   {
+    "revision": "df711b3101a29012575ad23756280f13",
+    "url": "/portfolio/static/media/heroes-home-web.df711b31.png"
+  },
+  {
     "revision": "4bba1bfd5e6805cec80db91f5f64c634",
     "url": "/portfolio/static/media/hilotn-iphone-600.4bba1bfd.png"
   },
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3617c870c680ffc13348ace05d3f5a8e",
     "url": "/portfolio/static/media/hilton-connectedroom-600.3617c870.png"
+  },
+  {
+    "revision": "64be95329726ef2775f2aa07daaeb4a4",
+    "url": "/portfolio/static/media/peer-to-peer-workshop.64be9532.png"
   },
   {
     "revision": "242d8e66e25c1e205e5b83196f585d06",
@@ -82,5 +86,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6578f4c8bf03f0962d177fee9c4dd2b7",
     "url": "/portfolio/static/media/stjude-org-600.6578f4c8.png"
+  },
+  {
+    "revision": "1a2b84bc03b0b33c1ee651a8ee5c4cac",
+    "url": "/portfolio/static/media/walk-home-mobileweb.1a2b84bc.png"
   }
 ]);
