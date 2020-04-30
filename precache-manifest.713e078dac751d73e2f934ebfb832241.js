@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "291481ff493535e4dc0b6b8da06431c3",
+    "revision": "585b800d43a54784d3302e75c6fae76c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "28ab7689155c902fe7ca",
-    "url": "/portfolio/static/css/main.539f0a8e.chunk.css"
+    "revision": "6de638b3f8aa8c3d3a94",
+    "url": "/portfolio/static/css/main.367182cd.chunk.css"
   },
   {
-    "revision": "761170c71086bb05da55",
-    "url": "/portfolio/static/js/2.911a81c5.chunk.js"
+    "revision": "8df960779721a3184acc",
+    "url": "/portfolio/static/js/2.83a79dc0.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.911a81c5.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.83a79dc0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "28ab7689155c902fe7ca",
-    "url": "/portfolio/static/js/main.10f6b1ba.chunk.js"
+    "revision": "6de638b3f8aa8c3d3a94",
+    "url": "/portfolio/static/js/main.19669b86.chunk.js"
   },
   {
     "revision": "6c1d3ad26a766dc494c1",
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6578f4c8bf03f0962d177fee9c4dd2b7",
     "url": "/portfolio/static/media/stjude-org-600.6578f4c8.png"
+  },
+  {
+    "revision": "654dd7892b1b3643f25bd72458fbd076",
+    "url": "/portfolio/static/media/stjudeweb-1800.654dd789.png"
   },
   {
     "revision": "1a2b84bc03b0b33c1ee651a8ee5c4cac",
