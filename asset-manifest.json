@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e2fe2cf7.chunk.css",
-    "main.js": "/portfolio/static/js/main.50efdaa3.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.50efdaa3.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.559177e3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.559177e3.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.d597d31e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.d597d31e.js.map",
-    "static/js/2.a300471e.chunk.js": "/portfolio/static/js/2.a300471e.chunk.js",
-    "static/js/2.a300471e.chunk.js.map": "/portfolio/static/js/2.a300471e.chunk.js.map",
+    "static/js/2.897ce933.chunk.js": "/portfolio/static/js/2.897ce933.chunk.js",
+    "static/js/2.897ce933.chunk.js.map": "/portfolio/static/js/2.897ce933.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.9739111587d8b257abed1dc7abd378ee.js": "/portfolio/precache-manifest.9739111587d8b257abed1dc7abd378ee.js",
+    "precache-manifest.e36707709ba2179abe8df50ccf41f540.js": "/portfolio/precache-manifest.e36707709ba2179abe8df50ccf41f540.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.e2fe2cf7.chunk.css.map": "/portfolio/static/css/main.e2fe2cf7.chunk.css.map",
-    "static/js/2.a300471e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a300471e.chunk.js.LICENSE.txt",
+    "static/js/2.897ce933.chunk.js.LICENSE.txt": "/portfolio/static/js/2.897ce933.chunk.js.LICENSE.txt",
     "static/media/Dreamhome-mobileweb-property.png": "/portfolio/static/media/Dreamhome-mobileweb-property.dbd85e85.png",
     "static/media/Dreamhome-wires.png": "/portfolio/static/media/Dreamhome-wires.a9c79262.png",
     "static/media/beverlyhilton-web-600.png": "/portfolio/static/media/beverlyhilton-web-600.14a303ea.png",
@@ -59,14 +59,15 @@
     "static/media/local-site-wa-maldives.png": "/portfolio/static/media/local-site-wa-maldives.93f49b01.png",
     "static/media/local-site-wa-maldives2.png": "/portfolio/static/media/local-site-wa-maldives2.900c6e60.png",
     "static/media/peer-to-peer-workshop.png": "/portfolio/static/media/peer-to-peer-workshop.64be9532.png",
+    "static/media/samiharvey.jpeg": "/portfolio/static/media/samiharvey.37427524.jpeg",
     "static/media/stjude-heroes-600.png": "/portfolio/static/media/stjude-heroes-600.16ca46c4.png",
     "static/media/stjudeweb-1800.png": "/portfolio/static/media/stjudeweb-1800.8f341fde.png",
     "static/media/walk-home-mobileweb.png": "/portfolio/static/media/walk-home-mobileweb.1a2b84bc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d597d31e.js",
-    "static/js/2.a300471e.chunk.js",
+    "static/js/2.897ce933.chunk.js",
     "static/css/main.e2fe2cf7.chunk.css",
-    "static/js/main.50efdaa3.chunk.js"
+    "static/js/main.559177e3.chunk.js"
   ]
 }
