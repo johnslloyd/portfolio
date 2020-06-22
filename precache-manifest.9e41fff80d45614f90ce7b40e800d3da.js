@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e83c64217fa6ffba6400c950cc5c3c1c",
+    "revision": "252469dd4734f0bc95212b285a90a365",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "2d622c3890a63cdc4d54",
-    "url": "/portfolio/static/css/main.e2fe2cf7.chunk.css"
+    "revision": "312d1bdb28ea32af8e9e",
+    "url": "/portfolio/static/css/main.4519df68.chunk.css"
   },
   {
-    "revision": "48da081464c9a1e35f99",
-    "url": "/portfolio/static/js/2.897ce933.chunk.js"
+    "revision": "6eba3c654980885f8cab",
+    "url": "/portfolio/static/js/2.c39cd2bb.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.897ce933.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.c39cd2bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d622c3890a63cdc4d54",
-    "url": "/portfolio/static/js/main.604c1f4b.chunk.js"
+    "revision": "312d1bdb28ea32af8e9e",
+    "url": "/portfolio/static/js/main.f6eceb46.chunk.js"
   },
   {
     "revision": "6c1d3ad26a766dc494c1",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a9c79262950f243d917e97801373f5fb",
     "url": "/portfolio/static/media/Dreamhome-wires.a9c79262.png"
+  },
+  {
+    "revision": "6111fc4064e6ff799c48c1bb953f5fd7",
+    "url": "/portfolio/static/media/aliciabroadhead.6111fc40.jpeg"
   },
   {
     "revision": "14a303ea8b619d378f370d654fa6a512",
@@ -188,6 +192,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/homepage-headshot.58764afd.png"
   },
   {
+    "revision": "4654763dfffc7ea25fad968d3fca1d90",
+    "url": "/portfolio/static/media/jackiecooperman.4654763d.jpeg"
+  },
+  {
     "revision": "2a7ed26fddbf23de4fa05fc22e54aba8",
     "url": "/portfolio/static/media/local-site-dt-cookiesinspace.2a7ed26f.png"
   },
@@ -206,6 +214,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "900c6e6029471066173e9d851846ee29",
     "url": "/portfolio/static/media/local-site-wa-maldives2.900c6e60.png"
+  },
+  {
+    "revision": "089f31778da8a0473f61c666976e4f61",
+    "url": "/portfolio/static/media/nicole.089f3177.jpeg"
   },
   {
     "revision": "64be95329726ef2775f2aa07daaeb4a4",
