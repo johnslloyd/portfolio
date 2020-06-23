@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "252469dd4734f0bc95212b285a90a365",
+    "revision": "0a1f2197fc38a4fb8028bc0502602b03",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "312d1bdb28ea32af8e9e",
-    "url": "/portfolio/static/css/main.4519df68.chunk.css"
+    "revision": "6a87078d9d25b2768c5b",
+    "url": "/portfolio/static/css/main.f63b0bff.chunk.css"
   },
   {
-    "revision": "6eba3c654980885f8cab",
-    "url": "/portfolio/static/js/2.c39cd2bb.chunk.js"
+    "revision": "2234bdf27806cb30fba2",
+    "url": "/portfolio/static/js/2.885bba52.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.c39cd2bb.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.885bba52.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "312d1bdb28ea32af8e9e",
-    "url": "/portfolio/static/js/main.f6eceb46.chunk.js"
+    "revision": "6a87078d9d25b2768c5b",
+    "url": "/portfolio/static/js/main.e5942f53.chunk.js"
   },
   {
     "revision": "6c1d3ad26a766dc494c1",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Dreamhome-wires.a9c79262.png"
   },
   {
-    "revision": "6111fc4064e6ff799c48c1bb953f5fd7",
-    "url": "/portfolio/static/media/aliciabroadhead.6111fc40.jpeg"
-  },
-  {
     "revision": "14a303ea8b619d378f370d654fa6a512",
     "url": "/portfolio/static/media/beverlyhilton-web-600.14a303ea.png"
+  },
+  {
+    "revision": "46da3c5635dbd2473a55b5d6c2b10fbb",
+    "url": "/portfolio/static/media/chris.46da3c56.jpeg"
   },
   {
     "revision": "e1f5f1a8a82151353fc27328f60e1a2e",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cde34a39dce21b2c925c31dfc07559fd",
     "url": "/portfolio/static/media/fractal-web-images.cde34a39.png"
+  },
+  {
+    "revision": "f4a2e2cc6dc13ebc6eb35ae63c6f6370",
+    "url": "/portfolio/static/media/genericface.f4a2e2cc.png"
   },
   {
     "revision": "16ca46c425238e5f0ff5a95d45cf90c5",
@@ -194,6 +198,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4654763dfffc7ea25fad968d3fca1d90",
     "url": "/portfolio/static/media/jackiecooperman.4654763d.jpeg"
+  },
+  {
+    "revision": "8dbe79ab7f9ed537fb417b87361f08cc",
+    "url": "/portfolio/static/media/jenniferthai.8dbe79ab.jpeg"
+  },
+  {
+    "revision": "8ec2d523d93d42367deadcfcc7b6173b",
+    "url": "/portfolio/static/media/laraolson.8ec2d523.jpeg"
   },
   {
     "revision": "2a7ed26fddbf23de4fa05fc22e54aba8",
