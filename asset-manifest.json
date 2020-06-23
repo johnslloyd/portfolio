@@ -1,24 +1,26 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f63b0bff.chunk.css",
-    "main.js": "/portfolio/static/js/main.e5942f53.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e5942f53.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.5af90c61.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5af90c61.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.d597d31e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.d597d31e.js.map",
-    "static/js/2.885bba52.chunk.js": "/portfolio/static/js/2.885bba52.chunk.js",
-    "static/js/2.885bba52.chunk.js.map": "/portfolio/static/js/2.885bba52.chunk.js.map",
+    "static/js/2.5fa79715.chunk.js": "/portfolio/static/js/2.5fa79715.chunk.js",
+    "static/js/2.5fa79715.chunk.js.map": "/portfolio/static/js/2.5fa79715.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.d942486ea6d07ba9ecb5946b82243026.js": "/portfolio/precache-manifest.d942486ea6d07ba9ecb5946b82243026.js",
+    "precache-manifest.f4d49ce163cc4f42a49ec02a859a4841.js": "/portfolio/precache-manifest.f4d49ce163cc4f42a49ec02a859a4841.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.f63b0bff.chunk.css.map": "/portfolio/static/css/main.f63b0bff.chunk.css.map",
-    "static/js/2.885bba52.chunk.js.LICENSE.txt": "/portfolio/static/js/2.885bba52.chunk.js.LICENSE.txt",
+    "static/js/2.5fa79715.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5fa79715.chunk.js.LICENSE.txt",
     "static/media/Dreamhome-mobileweb-property.png": "/portfolio/static/media/Dreamhome-mobileweb-property.dbd85e85.png",
     "static/media/Dreamhome-wires.png": "/portfolio/static/media/Dreamhome-wires.a9c79262.png",
     "static/media/beverlyhilton-web-600.png": "/portfolio/static/media/beverlyhilton-web-600.14a303ea.png",
+    "static/media/callie.jpeg": "/portfolio/static/media/callie.07dd1d65.jpeg",
     "static/media/chris.jpeg": "/portfolio/static/media/chris.46da3c56.jpeg",
     "static/media/dreamhome-agile.png": "/portfolio/static/media/dreamhome-agile.e1f5f1a8.png",
     "static/media/dreamhome-workshop.png": "/portfolio/static/media/dreamhome-workshop.5a18446b.png",
     "static/media/dreamhome.png": "/portfolio/static/media/dreamhome.aceacdbf.png",
+    "static/media/erika.jpeg": "/portfolio/static/media/erika.fb76a00d.jpeg",
     "static/media/fractal-web-600.png": "/portfolio/static/media/fractal-web-600.c362d9df.png",
     "static/media/fractal-web-accessibility.png": "/portfolio/static/media/fractal-web-accessibility.5389b1e0.png",
     "static/media/fractal-web-images.png": "/portfolio/static/media/fractal-web-images.cde34a39.png",
@@ -58,6 +60,7 @@
     "static/media/jackiecooperman.jpeg": "/portfolio/static/media/jackiecooperman.4654763d.jpeg",
     "static/media/jenniferthai.jpeg": "/portfolio/static/media/jenniferthai.8dbe79ab.jpeg",
     "static/media/laraolson.jpeg": "/portfolio/static/media/laraolson.8ec2d523.jpeg",
+    "static/media/lauren.jpeg": "/portfolio/static/media/lauren.a60c39c8.jpeg",
     "static/media/local-site-dt-cookiesinspace.png": "/portfolio/static/media/local-site-dt-cookiesinspace.2a7ed26f.png",
     "static/media/local-site-lxr-gallery.png": "/portfolio/static/media/local-site-lxr-gallery.1582d276.png",
     "static/media/local-site-lxr-locations.png": "/portfolio/static/media/local-site-lxr-locations.9763258e.png",
@@ -66,14 +69,15 @@
     "static/media/nicole.jpeg": "/portfolio/static/media/nicole.089f3177.jpeg",
     "static/media/peer-to-peer-workshop.png": "/portfolio/static/media/peer-to-peer-workshop.64be9532.png",
     "static/media/samiharvey.jpeg": "/portfolio/static/media/samiharvey.37427524.jpeg",
+    "static/media/stephenlopez.jpeg": "/portfolio/static/media/stephenlopez.50fdfde1.jpeg",
     "static/media/stjude-heroes-600.png": "/portfolio/static/media/stjude-heroes-600.16ca46c4.png",
     "static/media/stjudeweb-1800.png": "/portfolio/static/media/stjudeweb-1800.8f341fde.png",
     "static/media/walk-home-mobileweb.png": "/portfolio/static/media/walk-home-mobileweb.1a2b84bc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d597d31e.js",
-    "static/js/2.885bba52.chunk.js",
+    "static/js/2.5fa79715.chunk.js",
     "static/css/main.f63b0bff.chunk.css",
-    "static/js/main.e5942f53.chunk.js"
+    "static/js/main.5af90c61.chunk.js"
   ]
 }
