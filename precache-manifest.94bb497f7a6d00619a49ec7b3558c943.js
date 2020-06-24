@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e06f4ea1b970881bcb5f899b785cf11e",
+    "revision": "404ad429105852b7a5c3b6d19e748ce9",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "64d6569ef6c88880d12d",
+    "revision": "69fdca0b565858d4db0c",
     "url": "/portfolio/static/css/main.f63b0bff.chunk.css"
   },
   {
-    "revision": "163f32662e91f82e111b",
-    "url": "/portfolio/static/js/2.de0a489d.chunk.js"
+    "revision": "a138a39b2c6d6d07b955",
+    "url": "/portfolio/static/js/2.397e2cab.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.de0a489d.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.397e2cab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "64d6569ef6c88880d12d",
-    "url": "/portfolio/static/js/main.c131853e.chunk.js"
+    "revision": "69fdca0b565858d4db0c",
+    "url": "/portfolio/static/js/main.b64d1465.chunk.js"
   },
   {
     "revision": "6c1d3ad26a766dc494c1",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/dreamhome.aceacdbf.png"
   },
   {
+    "revision": "7f51a6cc95e3599edb0e19f417ccf3c1",
+    "url": "/portfolio/static/media/elisabeth.7f51a6cc.jpeg"
+  },
+  {
     "revision": "fb76a00d494496de1898678c19e0527f",
     "url": "/portfolio/static/media/erika.fb76a00d.jpeg"
   },
@@ -78,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0b33467a525457ad55566fc69630e405",
     "url": "/portfolio/static/media/heather.0b33467a.jpeg"
+  },
+  {
+    "revision": "21bbddad8bc924dd383a2bd88c885125",
+    "url": "/portfolio/static/media/heatherroth.21bbddad.jpeg"
   },
   {
     "revision": "16ca46c425238e5f0ff5a95d45cf90c5",
@@ -220,6 +228,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/jenniferthai.8dbe79ab.jpeg"
   },
   {
+    "revision": "f46fbd5f55357c3f0f8db1262bf9e327",
+    "url": "/portfolio/static/media/kevin.f46fbd5f.jpeg"
+  },
+  {
     "revision": "8ec2d523d93d42367deadcfcc7b6173b",
     "url": "/portfolio/static/media/laraolson.8ec2d523.jpeg"
   },
@@ -246,6 +258,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "900c6e6029471066173e9d851846ee29",
     "url": "/portfolio/static/media/local-site-wa-maldives2.900c6e60.png"
+  },
+  {
+    "revision": "99d9e553be7ca9d6a0573631aa23abd4",
+    "url": "/portfolio/static/media/nick.99d9e553.jpeg"
   },
   {
     "revision": "089f31778da8a0473f61c666976e4f61",
