@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f63b0bff.chunk.css",
-    "main.js": "/portfolio/static/js/main.5af90c61.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5af90c61.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.b3464a9d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b3464a9d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.d597d31e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.d597d31e.js.map",
-    "static/js/2.5fa79715.chunk.js": "/portfolio/static/js/2.5fa79715.chunk.js",
-    "static/js/2.5fa79715.chunk.js.map": "/portfolio/static/js/2.5fa79715.chunk.js.map",
+    "static/js/2.363cdf75.chunk.js": "/portfolio/static/js/2.363cdf75.chunk.js",
+    "static/js/2.363cdf75.chunk.js.map": "/portfolio/static/js/2.363cdf75.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.f4d49ce163cc4f42a49ec02a859a4841.js": "/portfolio/precache-manifest.f4d49ce163cc4f42a49ec02a859a4841.js",
+    "precache-manifest.72746d8c83ebbb58f83e93e28e0f4854.js": "/portfolio/precache-manifest.72746d8c83ebbb58f83e93e28e0f4854.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.f63b0bff.chunk.css.map": "/portfolio/static/css/main.f63b0bff.chunk.css.map",
-    "static/js/2.5fa79715.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5fa79715.chunk.js.LICENSE.txt",
+    "static/js/2.363cdf75.chunk.js.LICENSE.txt": "/portfolio/static/js/2.363cdf75.chunk.js.LICENSE.txt",
     "static/media/Dreamhome-mobileweb-property.png": "/portfolio/static/media/Dreamhome-mobileweb-property.dbd85e85.png",
     "static/media/Dreamhome-wires.png": "/portfolio/static/media/Dreamhome-wires.a9c79262.png",
     "static/media/beverlyhilton-web-600.png": "/portfolio/static/media/beverlyhilton-web-600.14a303ea.png",
@@ -25,6 +25,7 @@
     "static/media/fractal-web-accessibility.png": "/portfolio/static/media/fractal-web-accessibility.5389b1e0.png",
     "static/media/fractal-web-images.png": "/portfolio/static/media/fractal-web-images.cde34a39.png",
     "static/media/genericface.png": "/portfolio/static/media/genericface.f4a2e2cc.png",
+    "static/media/heather.jpeg": "/portfolio/static/media/heather.0b33467a.jpeg",
     "static/media/heroes-home-web.png": "/portfolio/static/media/heroes-home-web.16ca46c4.png",
     "static/media/hilotn-iphone-600.png": "/portfolio/static/media/hilotn-iphone-600.4bba1bfd.png",
     "static/media/hilotn-web-600.png": "/portfolio/static/media/hilotn-web-600.4bc68490.png",
@@ -76,8 +77,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d597d31e.js",
-    "static/js/2.5fa79715.chunk.js",
+    "static/js/2.363cdf75.chunk.js",
     "static/css/main.f63b0bff.chunk.css",
-    "static/js/main.5af90c61.chunk.js"
+    "static/js/main.b3464a9d.chunk.js"
   ]
 }
