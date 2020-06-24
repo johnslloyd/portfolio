@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f63b0bff.chunk.css",
-    "main.js": "/portfolio/static/js/main.fc46b2d5.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.fc46b2d5.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.7b490aaa.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7b490aaa.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.d597d31e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.d597d31e.js.map",
-    "static/js/2.363cdf75.chunk.js": "/portfolio/static/js/2.363cdf75.chunk.js",
-    "static/js/2.363cdf75.chunk.js.map": "/portfolio/static/js/2.363cdf75.chunk.js.map",
+    "static/js/2.de0a489d.chunk.js": "/portfolio/static/js/2.de0a489d.chunk.js",
+    "static/js/2.de0a489d.chunk.js.map": "/portfolio/static/js/2.de0a489d.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.404374d04e3e1a5ad93ab734d3483abe.js": "/portfolio/precache-manifest.404374d04e3e1a5ad93ab734d3483abe.js",
+    "precache-manifest.ebae309144cc05d11827244528ccaec9.js": "/portfolio/precache-manifest.ebae309144cc05d11827244528ccaec9.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.f63b0bff.chunk.css.map": "/portfolio/static/css/main.f63b0bff.chunk.css.map",
-    "static/js/2.363cdf75.chunk.js.LICENSE.txt": "/portfolio/static/js/2.363cdf75.chunk.js.LICENSE.txt",
+    "static/js/2.de0a489d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.de0a489d.chunk.js.LICENSE.txt",
     "static/media/Dreamhome-mobileweb-property.png": "/portfolio/static/media/Dreamhome-mobileweb-property.dbd85e85.png",
     "static/media/Dreamhome-wires.png": "/portfolio/static/media/Dreamhome-wires.a9c79262.png",
     "static/media/beverlyhilton-web-600.png": "/portfolio/static/media/beverlyhilton-web-600.14a303ea.png",
@@ -59,6 +59,7 @@
     "static/media/hilton-web-search.png": "/portfolio/static/media/hilton-web-search.5039ade7.png",
     "static/media/homepage-headshot.png": "/portfolio/static/media/homepage-headshot.58764afd.png",
     "static/media/jackiecooperman.jpeg": "/portfolio/static/media/jackiecooperman.4654763d.jpeg",
+    "static/media/jeff.jpeg": "/portfolio/static/media/jeff.63b033a9.jpeg",
     "static/media/jenniferthai.jpeg": "/portfolio/static/media/jenniferthai.8dbe79ab.jpeg",
     "static/media/laraolson.jpeg": "/portfolio/static/media/laraolson.8ec2d523.jpeg",
     "static/media/lauren.jpeg": "/portfolio/static/media/lauren.a60c39c8.jpeg",
@@ -77,8 +78,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d597d31e.js",
-    "static/js/2.363cdf75.chunk.js",
+    "static/js/2.de0a489d.chunk.js",
     "static/css/main.f63b0bff.chunk.css",
-    "static/js/main.fc46b2d5.chunk.js"
+    "static/js/main.7b490aaa.chunk.js"
   ]
 }
