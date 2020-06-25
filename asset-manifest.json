@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f63b0bff.chunk.css",
-    "main.js": "/portfolio/static/js/main.b64d1465.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b64d1465.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.448949a3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.448949a3.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.d597d31e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.d597d31e.js.map",
-    "static/js/2.397e2cab.chunk.js": "/portfolio/static/js/2.397e2cab.chunk.js",
-    "static/js/2.397e2cab.chunk.js.map": "/portfolio/static/js/2.397e2cab.chunk.js.map",
+    "static/js/2.20ddba07.chunk.js": "/portfolio/static/js/2.20ddba07.chunk.js",
+    "static/js/2.20ddba07.chunk.js.map": "/portfolio/static/js/2.20ddba07.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.94bb497f7a6d00619a49ec7b3558c943.js": "/portfolio/precache-manifest.94bb497f7a6d00619a49ec7b3558c943.js",
+    "precache-manifest.c3d9feefcf21f9991d965750cca49096.js": "/portfolio/precache-manifest.c3d9feefcf21f9991d965750cca49096.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.f63b0bff.chunk.css.map": "/portfolio/static/css/main.f63b0bff.chunk.css.map",
-    "static/js/2.397e2cab.chunk.js.LICENSE.txt": "/portfolio/static/js/2.397e2cab.chunk.js.LICENSE.txt",
+    "static/js/2.20ddba07.chunk.js.LICENSE.txt": "/portfolio/static/js/2.20ddba07.chunk.js.LICENSE.txt",
     "static/media/Dreamhome-mobileweb-property.png": "/portfolio/static/media/Dreamhome-mobileweb-property.dbd85e85.png",
     "static/media/Dreamhome-wires.png": "/portfolio/static/media/Dreamhome-wires.a9c79262.png",
+    "static/media/amy.jpeg": "/portfolio/static/media/amy.b941ec16.jpeg",
     "static/media/beverlyhilton-web-600.png": "/portfolio/static/media/beverlyhilton-web-600.14a303ea.png",
     "static/media/callie.jpeg": "/portfolio/static/media/callie.07dd1d65.jpeg",
     "static/media/chris.jpeg": "/portfolio/static/media/chris.46da3c56.jpeg",
@@ -61,6 +62,7 @@
     "static/media/hilton-web-search.png": "/portfolio/static/media/hilton-web-search.5039ade7.png",
     "static/media/homepage-headshot.png": "/portfolio/static/media/homepage-headshot.58764afd.png",
     "static/media/jackiecooperman.jpeg": "/portfolio/static/media/jackiecooperman.4654763d.jpeg",
+    "static/media/jay.jpeg": "/portfolio/static/media/jay.316847d5.jpeg",
     "static/media/jeff.jpeg": "/portfolio/static/media/jeff.63b033a9.jpeg",
     "static/media/jenniferthai.jpeg": "/portfolio/static/media/jenniferthai.8dbe79ab.jpeg",
     "static/media/kevin.jpeg": "/portfolio/static/media/kevin.f46fbd5f.jpeg",
@@ -82,8 +84,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d597d31e.js",
-    "static/js/2.397e2cab.chunk.js",
+    "static/js/2.20ddba07.chunk.js",
     "static/css/main.f63b0bff.chunk.css",
-    "static/js/main.b64d1465.chunk.js"
+    "static/js/main.448949a3.chunk.js"
   ]
 }
