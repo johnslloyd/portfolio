@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "487196058cda6aae8d398400432778de",
+    "revision": "e40a757293ce80c67ca7e66b38d1f607",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "8287df642824ceb51f5c",
-    "url": "/portfolio/static/css/main.f63b0bff.chunk.css"
+    "revision": "52d90cf1c7c283a35f79",
+    "url": "/portfolio/static/css/main.b388efa7.chunk.css"
   },
   {
-    "revision": "a5bf86e549cc8ab5041d",
-    "url": "/portfolio/static/js/2.20ddba07.chunk.js"
+    "revision": "ca250dccf6652124b2dc",
+    "url": "/portfolio/static/js/2.3b054323.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.20ddba07.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.3b054323.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8287df642824ceb51f5c",
-    "url": "/portfolio/static/js/main.e0fbec83.chunk.js"
+    "revision": "52d90cf1c7c283a35f79",
+    "url": "/portfolio/static/js/main.3375e6ac.chunk.js"
   },
   {
     "revision": "6c1d3ad26a766dc494c1",
@@ -220,6 +220,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/homepage-headshot.58764afd.png"
   },
   {
+    "revision": "e996269eabdeb363adeb1fd33c5ca574",
+    "url": "/portfolio/static/media/ilke.e996269e.jpeg"
+  },
+  {
     "revision": "4654763dfffc7ea25fad968d3fca1d90",
     "url": "/portfolio/static/media/jackiecooperman.4654763d.jpeg"
   },
@@ -234,6 +238,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8dbe79ab7f9ed537fb417b87361f08cc",
     "url": "/portfolio/static/media/jenniferthai.8dbe79ab.jpeg"
+  },
+  {
+    "revision": "19ed5bdba505fa802e08be6db9a99c94",
+    "url": "/portfolio/static/media/jessica.19ed5bdb.jpeg"
   },
   {
     "revision": "f46fbd5f55357c3f0f8db1262bf9e327",
@@ -294,6 +302,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8f341fdeb106f60f0deb9450673226c6",
     "url": "/portfolio/static/media/stjudeweb-1800.8f341fde.png"
+  },
+  {
+    "revision": "8388d058b636686a4a2f87e61522bd62",
+    "url": "/portfolio/static/media/sunny.8388d058.jpeg"
   },
   {
     "revision": "1a2b84bc03b0b33c1ee651a8ee5c4cac",
