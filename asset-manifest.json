@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f63b0bff.chunk.css",
-    "main.js": "/portfolio/static/js/main.86c270e9.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.86c270e9.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.ca6b3649.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ca6b3649.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.d597d31e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.d597d31e.js.map",
-    "static/js/2.b9e1a8b0.chunk.js": "/portfolio/static/js/2.b9e1a8b0.chunk.js",
-    "static/js/2.b9e1a8b0.chunk.js.map": "/portfolio/static/js/2.b9e1a8b0.chunk.js.map",
+    "static/js/2.7d4e935c.chunk.js": "/portfolio/static/js/2.7d4e935c.chunk.js",
+    "static/js/2.7d4e935c.chunk.js.map": "/portfolio/static/js/2.7d4e935c.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.e3bdbeb90b19ce27a6ae553c22743cc8.js": "/portfolio/precache-manifest.e3bdbeb90b19ce27a6ae553c22743cc8.js",
+    "precache-manifest.bd6d1d3bb05cb218d3ea8e423602db6f.js": "/portfolio/precache-manifest.bd6d1d3bb05cb218d3ea8e423602db6f.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.f63b0bff.chunk.css.map": "/portfolio/static/css/main.f63b0bff.chunk.css.map",
-    "static/js/2.b9e1a8b0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b9e1a8b0.chunk.js.LICENSE.txt",
+    "static/js/2.7d4e935c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.7d4e935c.chunk.js.LICENSE.txt",
     "static/media/Dreamhome-mobileweb-property.png": "/portfolio/static/media/Dreamhome-mobileweb-property.dbd85e85.png",
     "static/media/Dreamhome-wires.png": "/portfolio/static/media/Dreamhome-wires.a9c79262.png",
     "static/media/amanda.jpeg": "/portfolio/static/media/amanda.56a55229.jpeg",
     "static/media/amy.jpeg": "/portfolio/static/media/amy.b941ec16.jpeg",
     "static/media/beverlyhilton-web-600.png": "/portfolio/static/media/beverlyhilton-web-600.14a303ea.png",
     "static/media/callie.jpeg": "/portfolio/static/media/callie.07dd1d65.jpeg",
+    "static/media/carter.jpg": "/portfolio/static/media/carter.37f65233.jpg",
     "static/media/chris.jpeg": "/portfolio/static/media/chris.46da3c56.jpeg",
     "static/media/diana.jpeg": "/portfolio/static/media/diana.f04f58ce.jpeg",
     "static/media/dreamhome-agile.png": "/portfolio/static/media/dreamhome-agile.e1f5f1a8.png",
@@ -90,8 +91,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d597d31e.js",
-    "static/js/2.b9e1a8b0.chunk.js",
+    "static/js/2.7d4e935c.chunk.js",
     "static/css/main.f63b0bff.chunk.css",
-    "static/js/main.86c270e9.chunk.js"
+    "static/js/main.ca6b3649.chunk.js"
   ]
 }
